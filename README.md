@@ -1,7 +1,7 @@
 # Bauer_Aron_Course_Project_CIS-18A
 
 
-Project description: This is my course project for my CIS-18A Java programming class.
+Project description: This is my course project for my CIS-18A Java programming class. 
 Purpose: Practice calculating area for basic 2-D shapes, and calculating surface area 
 	 or volume for basic 3-D shapes
 Creator: Aron Bauer
